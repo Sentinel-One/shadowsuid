@@ -2,9 +2,9 @@
 
 This repository is part of SentinelOne's research done by Dor Dankner, of privilege persistance using `binfmt_misc`, which was named **Shadow SUID**.
 
-Research Part I - 
+Research Part I - https://www.sentinelone.com/blog/shadow-suid-for-privilege-persistence-part-1/
 <br>
-Research Part II - 
+Research Part II - https://www.sentinelone.com/blog/shadow-suid-privilege-persistence-part-2/
 
 The repository conatins the following files:
 
